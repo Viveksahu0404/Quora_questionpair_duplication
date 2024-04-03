@@ -1,0 +1,7 @@
+streamlit
+sklearn
+fuzzywuzzy
+distance
+ beautifulsoup4
+nltk.corpus
+python-Levenshtein
